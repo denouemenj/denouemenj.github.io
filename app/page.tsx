@@ -42,7 +42,7 @@ export default function Home() {
         <section className="mission-wrap" id="mission">
           <article className="mission-card">
             <div className="mission-card__mark"><Mark className="mission-card__logo"/></div>
-            <div><p className="section-kicker">Why we exist</p><h2>Our Mission</h2><p>We fund bold, underrepresented research across disciplines and career stages—because impactful ideas can come from anywhere.</p></div>
+            <div><p className="section-kicker">Why we exist</p><h2>Our Mission</h2><p>We fund bold, underrepresented research across disciplines and career stages because impactful ideas can come from anywhere.</p></div>
             <button type="button" className="text-link" aria-disabled="true" disabled>Learn more about us <span>→</span></button>
           </article>
         </section>
@@ -50,7 +50,7 @@ export default function Home() {
         <section className="what-we-do" id="funding">
           <div className="section-heading"><p className="section-kicker">From question to impact</p><h2>What We Do</h2></div>
           <div className="pillars">
-            <article className="pillar"><div className="pillar__icon"><Icon type="discover"/></div><div><h3>Discover</h3><p>We seek out overlooked questions and researchers with bold ideas—and the drive to explore them.</p></div></article>
+            <article className="pillar"><div className="pillar__icon"><Icon type="discover"/></div><div><h3>Discover</h3><p>We seek out overlooked questions and researchers with bold ideas and the drive to explore them.</p></div></article>
             <article className="pillar"><div className="pillar__icon"><Icon type="fund"/></div><div><h3>Fund</h3><p>We provide flexible funding and support to help turn promising ideas into meaningful progress.</p></div></article>
             <article className="pillar"><div className="pillar__icon"><Icon type="amplify"/></div><div><h3>Amplify</h3><p>We elevate diverse voices and share their insights to inspire change and drive impact.</p></div></article>
           </div>
